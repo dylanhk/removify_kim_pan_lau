@@ -57,9 +57,6 @@ class PerformanceScriptController extends Controller
         }
     }
 
-    
-
-
     /**
      * Retrieve data from API
      * 
